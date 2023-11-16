@@ -167,3 +167,21 @@ form h2 {
   letter-spacing: -0.5px;
   margin-bottom: 1.6rem;
 }
+
+@media (max-width: 868px) {
+  .app {
+    grid-template-columns: 1fr;
+    column-gap: 0;
+    padding: 1rem;
+  }
+
+  .sidebar {
+    margin-bottom: 2rem;
+  }
+
+  .form-add-friend,
+  .form-split-bill {
+    grid-template-columns: 1fr;
+    padding: 2rem;
+  }
+}
