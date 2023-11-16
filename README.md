@@ -1,4 +1,4 @@
-# Eat-n-Split App
+# 🍕 Eat-n-Split App
 
 🍽️ Eat-n-Split App
 
