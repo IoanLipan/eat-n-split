@@ -8,22 +8,6 @@ A project for easily splitting the bill when dining out with friends. 🧾💰
 
 The Eat-n-Split App is designed to help friends who go out together to easily split the bill. Whether you're dining at a restaurant, grabbing takeout, or ordering delivery, this app makes it simple to calculate and manage the bill-splitting process. 🍕🍣🍔
 
-## Installation
-
-Follow the steps below to set up the project locally:
-
-1. Clone the repository:
-git clone https://github.com/your-username/your-project.git
-
-2. Install dependencies:
-npm install
-
-## Usage
-
-To start the development server, run the following command:
-npm start
-Then, open your browser and navigate to http://localhost:3000.
-
 ## Features
 
 The Eat-n-Split App offers the following features:
